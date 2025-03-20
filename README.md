@@ -1,2 +1,3 @@
-# jamin-belaja
-Educational Resource app 
+# Educational Resource app 
+
+
